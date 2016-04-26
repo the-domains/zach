@@ -1,0 +1,28 @@
+name: zach
+favicon: null
+layout_spectrum: 0.7513222044799477
+typography_spectrum: 0.3377805291675031
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.17373874713666737
+  lightness: 0.5633349774871022
+  saturation: 0.7790658078156412
+  rhythmicContrast: 0.4757803918328136
+purpose: []
